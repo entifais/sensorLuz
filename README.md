@@ -15,4 +15,6 @@ recuerde la restisencia de 10k , si no la usa no dar los datos de lectura.
 
 
 
-use el prototipo hecho en tinkercad[aqui](https://www.tinkercad.com/things/9OPmBAK0RTr)
+use el prototipo hecho en tinkercad
+
+[aqui](https://www.tinkercad.com/things/9OPmBAK0RTr)
